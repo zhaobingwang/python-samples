@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1a283abe-2072-4381-a04f-a613eba4128e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>01_helloworld.py</StartupFile>
+    <StartupFile>02_variables_builtin_functions.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,7 @@
     <Compile Include="01_helloworld.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="02_variables_builtin_functions.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.8" />
