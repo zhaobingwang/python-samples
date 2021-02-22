@@ -1,0 +1,10 @@
+{
+    "name": "Zhang San",
+    "country": "China",
+    "city": "Hangzhou",
+    "skills": [
+        "Java",
+        "C#",
+        "Python"
+    ]
+}
